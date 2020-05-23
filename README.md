@@ -19,9 +19,9 @@ Libraries Used:
   7.Math
   8.winsound
 Hope You Would Love to View All those Algo Thechniques To Be visualised...
-
 NOTE: By Default Sounds Are Inactive Just Click The BUtton (Toogle Sound) To Get Good Sounds...
 but it will increase the animation delay
 
 ps Have Fun And do Share...
+
 For more Follow https://github.com/CaptanJackSparr0w
