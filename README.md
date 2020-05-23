@@ -17,8 +17,8 @@ Libraries Used:
   4. colorsys
   5. queue
   6. _thread
-  7.Math
-  8.winsound
+  7. Math
+  8. winsound
 
 Hope You Would Love to View All those Algo Thechniques To Be visualised...
 
