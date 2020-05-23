@@ -24,4 +24,4 @@ NOTE: By Default Sounds Are Inactive Just Click The BUtton (Toogle Sound) To Get
 but it will increase the animation delay
 
 ps Have Fun And do Share...
-For more Follow https://github.com/CaPtAn-CoOl
+For more Follow https://github.com/CaptanJackSparr0w
