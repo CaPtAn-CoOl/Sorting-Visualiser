@@ -15,11 +15,11 @@ def DrawList(data, current_selection_1 = -1, current_selection_2 = -1):
     height = 0
     x, y = 0, h
     
-    selection_colour1 = "Blue"
-    selection_colour2 = "red"
+    selection_colour1 = "orange"
+    selection_colour2 = "lime"
         
     for e in range(0, len(data)):
-        if not COLOUR_MODE: colour = "lime"
+        if not COLOUR_MODE: colour = "yellow"
         else:
             depth = 256 - floor((256 / h) * data[e])
             (r, g, b) = colorsys.hsv_to_rgb(float(depth) / 256, 1.0, 1.0)
@@ -269,7 +269,7 @@ def insertionSort(data):
 
 #MAIN WINDOW===============================================================================================
 root = Tk()
-root.title("ALGO SIPLIFIER")
+root.title("SORTING SIMPLIFIER")
 #root.attributes('-fullscreen',True)
 root.geometry("1531x900-1+0")
 root.config(background = 'black')
@@ -335,7 +335,7 @@ root.config(menu=menu_bar)
 
 
 #ALGO VISUALISER AREA
-canvas = tkinter.Canvas(root, bg="black", height=h, width=w,border = 0)
+canvas = tkinter.Canvas(root, bg="lime", height=h, width=w,border = 0)
 canvas.pack(fill = "both",)
 
 
